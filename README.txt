@@ -22,7 +22,7 @@ abre una linea de comando y run:<br />
 commit, para añadir todos los archivos de una sola vez, usar add .<br />
 1.´git commit -a "CHANGE DESCRIPTION"´ #esto va a realizar un commit del cambio con 
 una descripcion especifica <br />
-1.´git push origin master´ # esto va a copiar tus cambios en Github <br />
+1.´git push origian / git push origin master´ # esto va a copiar tus cambios en Github <br />
 
 ### Bajar la ultima version 
 Si usted desaria bajar los ultimos cambios desde Github, entonces <br />
